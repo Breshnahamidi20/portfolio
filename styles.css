@@ -108,11 +108,11 @@ body {
 
 .p1 {
   font-size: 30px;
-  z-index:2;
+  z-index: 2;
   background-color: rgb(61, 59, 59);
   color: white;
   text-decoration: none;
-  text-align :center;
+  text-align: center;
   height: 50px;
   bottom: -75px;
   position: absolute;
