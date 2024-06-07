@@ -12,7 +12,8 @@ body {
     position: fixed;
     font-size: 20px;
     margin-top: 0;
-  } 
+  }
+
 }
 
 #navbar {
@@ -125,7 +126,7 @@ body {
   background-color: rgb(55, 53, 56);
   text-align: center;
   color: wheat;
-   display: flex;
+  display: flex;
 }
 
 .contact-1 {
