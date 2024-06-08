@@ -146,20 +146,24 @@ body {
 }
 
 .contact-2 {
-  width: 600px;
+  width: 700px;
   height: 100px;
   position: relative;
+  justify-content: space-between;
   top: 45%;
   left: -28%;
-  display: flex;
-  justify-content: space-between;
   font-size: x-large;
   font-weight: bolder;
   padding-top: 20px;
 }
 
-.link {
+.b1,
+.b2,
+.b3, 
+.b4, 
+.b5 {
   text-decoration: none;
-  color: aliceblue;
-  position: relative;
+  color:white;
+  padding: 15px;
+ 
 }
